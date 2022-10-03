@@ -15,6 +15,8 @@ public class AppRecoleccion {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Dashboard dash = new Dashboard();
+        dash.setVisible(true);
     }
     
 }
